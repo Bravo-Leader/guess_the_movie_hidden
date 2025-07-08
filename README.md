@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Politique de Confidentialité - GuessTheMovie Cleaner</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            line-height: 1.6;
+        }
+        h1 {
+            color: #333;
+            border-bottom: 2px solid #eee;
+            padding-bottom: 10px;
+        }
+        h2 {
+            color: #555;
+            margin-top: 30px;
+        }
+        .last-updated {
+            color: #666;
+            font-style: italic;
+        }
+    </style>
+</head>
+<body>
+    <h1>Politique de Confidentialité</h1>
+    <p class="last-updated">Dernière mise à jour : 13 avril 2025</p>
+
+    <h2>Extension GuessTheMovie Cleaner</h2>
+    
+    <h2>Collecte de Données</h2>
+    <p><strong>Aucune donnée utilisateur n'est collectée par cette extension.</strong></p>
+    <p>Cette extension fonctionne entièrement localement dans votre navigateur et ne :</p>
+    <ul>
+        <li>Ne collecte aucune information personnelle</li>
+        <li>Ne stocke aucune donnée</li>
+        <li>Ne communique avec aucun serveur externe</li>
+        <li>Ne surveille pas votre activité en ligne</li>
+        <li>Ne partage aucune information avec des tiers</li>
+    </ul>
+
+    <h2>Fonctionnement de l'Extension</h2>
+    <p>L'extension GuessTheMovie Cleaner :</p>
+    <ul>
+        <li>Masque le numéro de jeu et la date sur le site GuessTheMovie.Name</li>
+        <li>Nettoie l'URL pour supprimer le numéro de jeu</li>
+        <li>Modifie le titre de l'onglet pour masquer les informations de jeu</li>
+        <li>Fonctionne uniquement sur le site https://guessthemovie.name/p/*</li>
+    </ul>
+
+    <h2>Autorisations Requises</h2>
+    <p>L'extension demande les autorisations suivantes :</p>
+    <ul>
+        <li><strong>Scripting</strong> : Nécessaire pour modifier le contenu de la page web</li>
+        <li><strong>Accès au site</strong> : Limité uniquement à https://guessthemovie.name/p/*</li>
+    </ul>
+
+    <h2>Contact</h2>
+    <p>Si vous avez des questions concernant cette politique de confidentialité, vous pouvez nous contacter via le Chrome Web Store.</p>
+
+    <h2>Modifications</h2>
+    <p>Cette politique de confidentialité peut être mise à jour. Les modifications seront publiées sur cette page avec une nouvelle date de mise à jour.</p>
+</body>
+</html> 
